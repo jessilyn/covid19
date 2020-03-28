@@ -12,3 +12,5 @@ For now, it's a public repo, but if there are things that should be private we c
 ## Other Resources
 
 We're also trying to use this site as a clearing house for good data we find elsewhere, and to alert people to the efforts of others to avoid duplication of effort. See `third_party_data.md` for a list of currently available public data.
+
+And finally, we'll keep trying to accumulate links on other research efforts. For example, [here's a git repo trying to track various social science projects in this domain.](https://github.com/natematias/covid-19-social-science-research)
